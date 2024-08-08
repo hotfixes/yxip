@@ -1,6 +1,11 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 47.243.91.58,2096,2096,true,HKG,Asia Pacific,Hong Kong,64,21.1
+47.76.189.102,8443,8443,true,HKG,Asia Pacific,Hong Kong,89,19
+8.218.85.128,2035,2035,true,HKG,Asia Pacific,Hong Kong,64,21.1
+193.122.101.195,8443,8443,true,HKG,Asia Pacific,Hong Kong,64,11.1
 192.18.134.22,443,443,true,SJC,North America,San Jose,176,7.1
 129.146.46.164,443,443,true,LAX,North America,Los Angeles,356,6.1
 152.67.249.123,443,443,true,SJC,North America,San Jose,172,5.1 
 138.2.134.218,443,443,true,FRA,Europe,Frankfurt,250,5.1
+154.17.4.191,35378,35378,true,LAX,North America,Los Angeles,356,8.1
+17.37.224.156,2053,2053,true,CDG,Europe,Paris,181,7.1
