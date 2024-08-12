@@ -2,7 +2,9 @@
 47.243.91.58,2096,2096,true,HKG,Asia Pacific,Hong Kong,64,21.1
 47.76.189.102,8443,8443,true,HKG,Asia Pacific,Hong Kong,89,19
 47.76.225.255,2083,2083,true,HKG,Asia Pacific,Hong Kong,67,22
+8.218.52.115,2083,2083,true,HKG,Asia Pacific,Hong Kong,67,18
 192.18.134.22,443,443,true,SJC,North America,San Jose,176,7.1
 129.146.46.164,443,443,true,LAX,North America,Los Angeles,356,6.1
 152.67.249.123,443,443,true,SJC,North America,San Jose,172,5.1 
-154.17.4.191,35378,35378,true,LAX,North America,Los Angeles,356,8.1
+154.17.19.203,32826,32826,true,LAX,North America,Los Angeles,168,8.1
+154.17.21.134,18446,18446,true,LAX,North America,Los Angeles,171,8.1
