@@ -1,4 +1,2 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-192.18.134.22,443,443,true,SJC,North America,San Jose,176,7.1
-152.67.249.123,443,443,true,SJC,North America,San Jose,172,5.1 
-154.17.19.203,32826,32826,true,LAX,North America,Los Angeles,168,8.1
+
