@@ -74,7 +74,7 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
 140.238.7.57,9999,true,ICN,Asia Pacific,Seoul,104,5
 154.29.147.199,443,true,LAX,North America,Los Angeles,204,4
 154.7.183.12,58628,true,LAX,North America,Los Angeles,195,4
-146.59.34.218,2053,true,MBP,Europe,Kyiv,289,4553 
+146.59.34.218,2053,true,MBP,Europe,Kyiv,289,4
 193.123.232.127,31137,true,SJC,North America,San Jose,64,4
 131.186.22.123,443,true,ICN,Asia Pacific,Seoul,124,4
 146.59.155.205,8443,true,LHR,Europe,London,261,4
